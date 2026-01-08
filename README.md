@@ -1,21 +1,23 @@
 <p align="center">
-  <img src="url_da_imagem" width="100%" alt="Banner Keep Moving">
+  <img src="./images/banner_perfil.png" width="100%" alt="Banner Keep Moving">
 </p>
 
 ---
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%">
-      <h3><font color="#2e6cc4">About Me</font></h3>
+    <td width="55%" valign="middle">
+      <h1>$\color{#214C86}{\text{About Me}}$</h1>
       <p>
-        Hi, I'm Rodrigo! I'm a Software Engineering student at the University of Brasília (UnB). 
-        I focus on building technology-driven solutions that simplify daily life and create 
-        a positive impact on people. This is what drives me as a developer.
+        <font size="4">
+          Hi, I'm Rodrigo! I'm a Software Engineering student at the University of Brasília (UnB). 
+          I focus on building technology-driven solutions that simplify daily life and create 
+          a positive impact on people. This is what drives me as a developer.
+        </font>
       </p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://usagif.com/wp-content/uploads/ocean-wave-7.gif" width="250px" style="border-radius: 10px;">
+    <td width="45%" align="right" valign="middle">
+      <img src="./images/gif_oceano.gif" width="380px" >
     </td>
   </tr>
 </table>
