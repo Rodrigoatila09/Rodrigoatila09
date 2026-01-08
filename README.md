@@ -1,14 +1,21 @@
 <p align="center">
   <img src="./images/banner_perfil.png" width="100%" alt="Banner Keep Moving">
+  <img src="./images/banner_perfil.png" width="100%" alt="Banner Keep Moving">
 </p>
 
 ---
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="middle">
       <p><b><font size="6" color="#214C86">About Me</font></b></p>
       <p>
+        <font size="4">
+          Hi, I'm Rodrigo! I'm a Software Engineering student at the University of Brasília (UnB). 
+          I focus on building technology-driven solutions that simplify daily life and create 
+          a positive impact on people. This is what drives me as a developer.
+        </font>
         <font size="4">
           Hi, I'm Rodrigo! I'm a Software Engineering student at the University of Brasília (UnB). 
           I focus on building technology-driven solutions that simplify daily life and create 
