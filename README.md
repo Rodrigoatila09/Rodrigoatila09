@@ -4,23 +4,15 @@
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="middle">
-      <p><b><font size="6" color="#214C86">About Me</font></b></p>
-      <p>
-        <font size="4">
-          Hi, I'm Rodrigo! I'm a Software Engineering student at the University of Brasília (UnB). 
-          I focus on building technology-driven solutions that simplify daily life and create 
-          a positive impact on people. This is what drives me as a developer.
-        </font>
-      </p>
-    </td>
-    <td width="45%" align="right" valign="middle">
-      <img src="./images/gif_oceano.gif" width="380px" style="border-radius: 8px;">
-    </td>
-  </tr>
-</table>
+<p><b><font size="6" color="#214C86">About Me</font></b></p>
+
+<p>
+  <font size="4">
+    Hi, I'm Rodrigo! I'm a Software Engineering student at the University of Brasília (UnB). 
+    I focus on building technology-driven solutions that simplify daily life and create 
+    a positive impact on people. This is what drives me as a developer.
+  </font>
+</p>
 
 ---
 
@@ -68,4 +60,17 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rodrigoatila09&show_icons=true&include_all_commits=true&count_private=true&title_color=214C86&icon_color=214C86&text_color=333333&bg_color=ffffff" alt="Rodrigo's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodrigoatila09&layout=compact&langs_count=7&title_color=214C86&icon_color=214C86&text_color=333333&bg_color=ffffff" alt="Rodrigo's Top Languages" />
+</p>
+
+---
+
+## <font color="#214C86">Connect with me</font>
+<p align="center">
+  <a href="https://linkedin.com/in/rodrigo-atila" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rodrigoatila09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
