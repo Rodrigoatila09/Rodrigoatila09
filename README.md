@@ -73,4 +73,8 @@
   <a href="mailto:rodrigoatila09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/atilaa09"> 
+    <img src="https://img.shields.io/badge/Codeforces-214C86?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
 </p>
